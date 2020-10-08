@@ -14,5 +14,5 @@ d.innerText = date;
 );
 
 function padding(n){
-    return n.toString().padStart(2, "0");
+    return n.toString().padStart(2 , "0");
 }
